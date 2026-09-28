@@ -136,7 +136,7 @@ The Overall Dashboard contains four main KPI cards:
 The project is organized into five main analytical areas:
 
 ### 1. Overall Dashboard
-
+![OVERVIEW DASHBOARD](OVERVIEWDASHBOARD.PNG)
 Provides an overall view of:
 
 * Total Bookings
