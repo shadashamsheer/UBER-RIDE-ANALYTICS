@@ -136,7 +136,7 @@ The Overall Dashboard contains four main KPI cards:
 The project is organized into five main analytical areas:
 
 ### 1. Overall Dashboard
-![OVERVIEW DASHBOARD](OVERVIEWDASHBOARD.PNG)
+![OVERVIEW DASHBOARD](OVERVIEWDASHBOARD.png)
 Provides an overall view of:
 
 * Total Bookings
@@ -150,7 +150,7 @@ Provides an overall view of:
 * Key insights
 
 ### 2. Vehicle Type Dashboard
-
+![VEHICLE TYPE DASHBOARD](VEHICLETYPEDASHBOARD.png)
 Analyzes:
 
 * Bookings by vehicle type
@@ -159,7 +159,7 @@ Analyzes:
 * Comparison between vehicle categories
 
 ### 3. Revenue Dashboard
-
+![REVENUE DASHBOARD](REVENUEDASHBOARD.png)
 Analyzes:
 
 * Revenue by month
@@ -167,19 +167,14 @@ Analyzes:
 * Booking value trends
 * Revenue contribution
 
-### 4. Cancellation Dashboard
-
+### 4. Cancellation&Ratings Dashboard
+![CANCELLATION&RATINGS DASHBOARD](CANCELLATION&RATINGSDASHBOARD.png)
 Analyzes:
 
 * Customer cancellations
 * Driver cancellations
 * Cancellation reasons
 * Cancellation patterns
-
-### 5. Ratings Dashboard
-
-Analyzes:
-
 * Driver ratings
 * Customer ratings
 * Vehicle-wise ratings
